@@ -1,3 +1,3 @@
 # This program prints Hello, world!
-msg = 'Excited for Hackathon!'
+msg = 'Excited for James Demo Today!!'
 print(msg)
